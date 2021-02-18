@@ -2,7 +2,7 @@
 
 ## ["How to Grow as an Engineer (Working Remotely)"](https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e)
 
-> "As an engineer, you're not paid to write code; you're paid to solve >problems."
+> "As an engineer, you're not paid to write code; you're paid to solve problems."
 
 Simply said, but genuine. The article brings up major points, such as striving for simplicity, being passionate, and so on. But in almost all of these facets, "growing" involved being better for the team, not for oneself. The first headline says, "Solve the right problems."
 
